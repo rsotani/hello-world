@@ -1,4 +1,4 @@
 # hello-world
 test
 
-git no renshuu
+git no renshuu sitemasu
